@@ -24,7 +24,7 @@
 - 负责模块
     -  主要负责商品模块（进销存等），品牌模块，订单模块的后端接口，以及大部分common模块
 - 项目总结
-    - 完整参与项目服务端开发，从对分布式开发略知一二到理解Dubbo及多个主流中间件原理；并持续改进优化项目，如使用AOP简化@Valid+bindingResult校验异常，开发增强hibernateValidator的校验注解，处理如“检查字段值是否满足范围内值”的情况，日志也使用注解+AOP优化；利用Mybatis的Plugin模块自定义实现打印sql日志及记录慢sql；从使用redis（日期+incr()）生成流水号ID到zookeeper+snowflake算法等等。
+    - 完整参与项目服务端开发，从对分布式开发略知一二到理解Dubbo及多个主流中间件原理；并持续改进优化项目，如使用AOP简化@Valid+bindingResult校验异常，开发增强hibernateValidator的校验注解，处理如“检查字段值是否满足范围内值”的情况，日志也使用注解+AOP优化；利用Mybatis的Plugin模块自定义实现打印sql日志及记录慢sql；从使用redis（日期+incr()）生成流水号ID到zookeeper+snowflake算法等等
 
 ##### **项目名：平台权限管理系统**
 - 简介
