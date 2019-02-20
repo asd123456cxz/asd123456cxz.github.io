@@ -5,14 +5,13 @@
  - 工作年限：1年
  - 期望职位：Java后端工程师
  - 意向城市：杭州
- - 手机：156XXXX6265
- - github: https://github.com/asd123456cxz
 ## 技能清单
 - 熟悉Java基础，掌握集合，多线程，IO等基本知识，对JVM原理有一定了解
 - 熟练使用SpringFrameWork&SpringMVC/SpringBoot框架，熟练使用Mybatis，均有阅读源码经验
-- 掌握Dubbo，有阅读源码经验，了解Netty及Zookeeper；了解SpringCloud基础及相关组件，Hytrix，consul，euraka等；了解RabbitMQ等消息队列
+- 掌握Dubbo，有阅读源码经验，了解Netty及Zookeeper；了解SpringCloud基础及相关组件，Hytrix，consul，euraka等
+- 了解Redis；了解RabbitMQ等消息队列。均掌握一定的原理及高级特性
 - 熟悉MySQL及常用的SQL调优方法，了解Redis
-- 掌握Maven，Git，有基本的Linux使用经验
+- 掌握Maven，Git，有基本的Linux使用和项目部署经验；有简单的Docker使用经验
 
 ## 工作经历
 
@@ -31,12 +30,14 @@
 主要遇到的问题有前期分布式相关基础不牢，API调用不顺利，通过下班后持续自学补足；微信相关接口陌生，熟悉后改用成熟的第三方SDK。
 
 ##### **项目名：平台权限管理系统**
-- 简介
-    - 内部使用的集合服务，权限，字典管理的平台 
-- 负责模块
-    - 全部后端模块，包括数据库和服务部署等  
-- 项目总结
-    - 在此项目中，从未接触过SpringSecurity到整合SpirngMVC完成权限开发，在开发过程中的主要困难是，由于自己对前端的不熟悉及接口文档定义不清晰等问题导致与前端的对接有很多波折，最终通过自己加强学习和完善接口解决问题。
+- 项目名称：机床售后管理系统 
+- 开发环境：IntelliJ IDEA, Tomcat7.0, JDK1.8, Maven
+- 技术栈: 基于SSM，权限模块使用SpringSecurity，缓存使用Redis，前端使用Vue
+- 项目描述: 为金沙数控有限公司提供了一套关于机床售后服务的解决方案,项目包含了故障提交/录入/查询、派发工程人员、权限设置等模块的开发.
+- 责任描述：
+负责项目全部后端模块，包括数据库和服务部署等
+- 技术亮点&遇到的困难:
+在此项目中，从未接触过SpringSecurity到整合SpirngMVC完成权限开发，在开发过程中的主要困难是，由于自己对前端的不熟悉及接口文档定义不清晰等问题导致与前端的对接有很多波折，最终通过自己加强学习和完善接口解决问题。
 
 
 
