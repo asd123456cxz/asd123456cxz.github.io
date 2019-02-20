@@ -7,7 +7,7 @@
  - 意向城市：杭州
 ## 技能清单
 - 熟悉Java基础，掌握集合，多线程，IO等基本知识，对JVM原理有一定了解
-- 熟练使用SpringFrameWork&SpringMVC/SpringBoot框架，熟练使用Mybatis，均有阅读源码经验
+- 熟练使用Spring FrameWork&SpringMVC/SpringBoot框架，熟练使用Mybatis，均有阅读源码经验
 - 掌握Dubbo，有阅读源码经验，了解Netty及Zookeeper；了解SpringCloud基础及相关组件，Hytrix，consul，euraka等
 - 了解Redis；了解RabbitMQ等消息队列。均掌握一定的原理及高级特性
 - 熟悉MySQL及常用的SQL调优方法，了解Redis
